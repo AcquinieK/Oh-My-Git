@@ -1,5 +1,3 @@
-# Oh-My-Git
-
 ![Title screen](https://raw.githubusercontent.com/AcquinieK/Oh-My-Git/main/%20OH%20MY%20GIT%20picture.png)
 
 ## GOAL
